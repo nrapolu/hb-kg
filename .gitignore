@@ -1,0 +1,3 @@
+hbase-trx-key-group/bin/*
+.metadata/*
+hbase-trx-key-group/.*
